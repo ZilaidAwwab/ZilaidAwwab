@@ -10,7 +10,8 @@ I am a frontend developer and have honed my skills in HTML, CSS, and JavaScript,
 *   ✉️  You can contact me at [zilaidawwab786@gmail.com](mailto:zilaidawwab786@gmail.com)
 *   🧠  I'm learning React Js, the most popular and in demand JavaScript library.
 *   🤝  I'm open to collaborating on projects.
-*   ⚡  I have great interest in psychology and philosophy.### Skills 
+*   ⚡  I have great interest in psychology and philosophy.
+*  Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
