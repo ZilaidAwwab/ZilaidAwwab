@@ -8,7 +8,7 @@ I am a frontend developer and have honed my skills in HTML, CSS, and JavaScript,
 
 * 🌍  I'm based in Peshawar, Pakistan.
 * ✉️  You can contact me at [zilaidawwab786@gmail.com](mailto:zilaidawwab786@gmail.com)
-* 🧠  I'm learning React Js, the most popular and in demand JavaScript library.
+* 🧠  I'm learning Angular, the most popular and in-demand JavaScript framework.
 * 🤝  I'm open to collaborating on projects.
 * ⚡  I have great interest in psychology and philosophy.
 
