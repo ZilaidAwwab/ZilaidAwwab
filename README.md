@@ -6,7 +6,7 @@ Frontend Developer
 
 I am a 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 specializing in 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 and 𝗥𝗲𝘀𝘁 𝗔𝗣𝗜'𝘀 integration. I have expertise in 𝗛𝗧𝗠𝗟𝟱, 𝗖𝗦𝗦𝟯, 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 and various open-source frameworks such as 𝗡𝗼𝗱𝗲𝗝𝗦, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀𝗝𝗦, 𝗔𝗻𝗴𝘂𝗹𝗮𝗿𝗝𝗦, 𝗠𝗼𝗻𝗴𝗼𝗗𝗕. I am skilled in the use of these frameworks to develop web applications based on 𝗦𝗶𝗻𝗴𝗹𝗲 𝗣𝗮𝗴𝗲 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 (𝗦𝗣𝗔) and 𝗠𝗼𝗱𝗲𝗹-𝗩𝗶𝗲𝘄-𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝗹𝗲𝗿 (𝗠𝗩𝗖) architectures.
 
-* 🌍  I'm based in Peshawar, Pakistan.
+* 🌍  I'm based in Islamabad, Pakistan.
 * ✉️  You can contact me at [zilaidawwab786@gmail.com](mailto:zilaidawwab786@gmail.com)
 * 🧠  I'm learning the advanced concepts of Angular, and making familiarity with Backend as well.
 * 🤝  I'm open to collaborating on Frontend projects involving Angular.
